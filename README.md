@@ -15,5 +15,4 @@ The "Music Genre Prediction" project involved the following steps:
 * Data Preprocessing: Cleaning and processing the data, including extracting important features from songs such as melody, tempo, and harmony.
 * Model Development: Building machine learning classification models, such as classification algorithms (KNN, SVM, Naive Bayes), to predict music genres based on song features.
 * Model Training: Training the model on the available dataset to improve the accuracy of music genre predictions.
-
-Model Evaluation: Testing the model's performance using evaluation metrics such as accuracy, precision, recall, and conducting AB Testing.
+* Model Evaluation: Testing the model's performance using evaluation metrics such as accuracy, precision, recall, and conducting AB Testing.
